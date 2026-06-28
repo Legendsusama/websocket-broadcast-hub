@@ -50,4 +50,3 @@ Follow these steps to get your local development environment up and running.
     Finally, open the index.html file in your preferred web browser.
 
 ![WebSocket Broadcast Hub Console](./assets/screenshot.png)
->>>>>>> 3b4bade (First Commit)
